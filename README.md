@@ -4,3 +4,7 @@ The aim of this project is to concieve a classifier capable of discerning the ro
 
 ---
 This repo contains the data, code and environemnt for reproductibility of our results as well as the full report 
+
+---
+#### Contributors :bust_in_silhouette:
+[jciardo](https://github.com/jciardo), [frossardr](https://github.com/frossardr), [maverest](https://github.com/maverest)
